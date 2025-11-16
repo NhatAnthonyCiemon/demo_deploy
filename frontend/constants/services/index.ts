@@ -1,0 +1,8 @@
+const SERVICES = {
+    STATUS_NOT_CLIENT_ERROR: 0,
+    DEFAULT_ERROR_MESSAGE: "An error occurred",
+    STATUS_INTERNAL_ERROR: 500,
+    STATUS_UNAUTHORIZED: 401,
+};
+
+export default SERVICES;
