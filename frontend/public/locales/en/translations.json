@@ -1,0 +1,50 @@
+{
+    "common": {
+        "language": "Language",
+        "english": "English",
+        "spanish": "Español",
+        "vietnamese": "Tiếng Việt",
+        "loading": "Loading..."
+    },
+    "DEFAULT_ERROR_MESSAGE": "An error occurred",
+    "UNAUTHORIZED_ERROR_MESSAGE": "Session has expired. Please log in again.",
+    "NETWORK_ERROR_MESSAGE": "Network error. Please check your connection.",
+    "TIMEOUT_ERROR_MESSAGE": "The request timed out. Please try again.",
+    "auth": {
+        "1": "Come us to your",
+        "2": "adventure!",
+        "login": {
+            "1": "Sign in",
+            "2": "Sign in with email address",
+            "3": "Email address",
+            "4": "Password",
+            "5": "Or continue with",
+            "6": "Don't have an account?",
+            "7": "Sign up",
+            "error": {
+                "requiredEmail": "Email address is required.",
+                "requiredPassword": "Password is required."
+            }
+        },
+        "signup": {
+            "1": "Create your account",
+            "2": "Sign up with email address",
+            "3": "Email address",
+            "4": "Username",
+            "5": "Password",
+            "6": "Confirm Password",
+            "7": "Or continue with",
+            "8": "Already have an account?",
+            "9": "Sign in",
+            "error": {
+                "invalidEmail": "Please enter a valid email address.",
+                "requiredEmail": "Email address is required.",
+                "requiredPassword": "Password is required.",
+                "invalidPassword": "Password must be at least 1 uppercase letter, 1 lowercase letter, 1 number, and 1 special character. Minimum 8 characters.",
+                "requiredUsername": "Username is required.",
+                "requiredConfirmPassword": "Please confirm your password.",
+                "invalidConfirmPassword": "Passwords do not match."
+            }
+        }
+    }
+}
